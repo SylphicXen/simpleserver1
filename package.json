@@ -1,0 +1,11 @@
+{
+    "name": "simpleserver1",
+    "version": "1.0.0",
+    "description": "A very simple server to practice dockerization",
+    "main": "index.js",
+    "dependencies": {},
+
+    "scripts": {
+        "start": "node index.js"
+    }
+}
